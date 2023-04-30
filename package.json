@@ -1,0 +1,15 @@
+{
+  "name": "electron-test-app",
+  "version": "1.0.0",
+  "description": "Electron Tutorial Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quinton Ulysses Pedrick",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.1.3"
+  }
+}
